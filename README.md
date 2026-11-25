@@ -5,6 +5,9 @@ A modern, elegant and customizable full-stack e-commerce website template built 
 AUREL provides a complete foundation for building premium online stores, combining a refined storefront, seamless shopping experience and powerful administrative dashboard.
 
 <p align="center">
+  <img src="assets/promotional-banner.WEBP" alt="AUREL Premium E-commerce Template — $49" width="100%" />
+</p>
+<p align="center">
   <strong>Live Demo</strong>
   <br/>
   <a href="https://aurel-ecommerce-template-gold.vercel.app/">Explore AUREL Storefront</a>
