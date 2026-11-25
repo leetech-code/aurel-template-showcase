@@ -10,6 +10,16 @@ AUREL provides a complete foundation for building premium online stores, with a 
   </a>
 </p>
 
+[**Buy AUREL — $49**](https://leetechdev.gumroad.com/l/sbzki)
+
+## Purchase
+
+Ready to launch your next online store?
+
+Get the complete AUREL source code, buyer setup guide and single-project commercial license.
+
+[**Purchase AUREL on Gumroad — $49**](https://leetechdev.gumroad.com/l/sbzki)
+
 Overview
 
 AUREL is a reusable commercial e-commerce template designed for fashion brands, online retailers and businesses seeking a polished digital storefront.
