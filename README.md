@@ -50,7 +50,9 @@ Actual storefront and administrative dashboard screenshots will be featured here
 
 Storefront
 
-Homepage, shopping experience and product presentation.
+![AUREL Homepage Preview](assets/aurel-homepage-mobile.png)
+
+*The AUREL storefront — premium fashion shopping experience.*
 
 Shopping Experience
 
