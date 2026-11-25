@@ -1,24 +1,20 @@
 AUREL — Premium E-commerce Website Template
 
-A modern, elegant and customizable e-commerce website template built with React, TypeScript and Tailwind CSS.
+A modern, elegant and customizable full-stack e-commerce website template built with React, TypeScript and Tailwind CSS.
 
-AUREL provides a complete foundation for building premium online stores, with a refined storefront, shopping experience and administrative dashboard.
+AUREL provides a complete foundation for building premium online stores, combining a refined storefront, seamless shopping experience and powerful administrative dashboard.
 
 <p align="center">
-  <a href="https://aurel-ecommerce-template-gold.vercel.app/">
-    **Live Demo**
+  <strong>Live Demo</strong>
+  <br/>
+  <a href="https://aurel-ecommerce-template-gold.vercel.app/">Explore AUREL Storefront</a>
+  <br/><br/>
+  <a href="https://leetechdev.gumroad.com/l/sbzki">
+    <strong>GET AUREL — $49</strong>
   </a>
 </p>
 
-[**Buy AUREL — $49**](https://leetechdev.gumroad.com/l/sbzki)
-
-## Purchase
-
-Ready to launch your next online store?
-
-Get the complete AUREL source code, buyer setup guide and single-project commercial license.
-
-[**Purchase AUREL on Gumroad — $49**](https://leetechdev.gumroad.com/l/sbzki)
+⸻
 
 Overview
 
@@ -31,8 +27,8 @@ Key Features
 * Responsive storefront design
 * Product catalog and collections
 * Shopping cart and wishlist
-* Product details and shopping experience
-* Checkout system
+* Detailed product pages
+* Complete checkout experience
 * Paystack payment integration
 * Payment verification and webhook handling
 * Persistent order management
@@ -44,11 +40,27 @@ Key Features
 
 Live Preview
 
-Storefront:
-https://aurel-ecommerce-template-gold.vercel.app/
+Preview	Link
+Storefront	View AUREL
+Admin Dashboard	View Admin Dashboard
 
-Admin Dashboard:
-https://aurel-ecommerce-template-gold.vercel.app/admin
+Screenshots
+
+Actual storefront and administrative dashboard screenshots will be featured here.
+
+Storefront
+
+Homepage, shopping experience and product presentation.
+
+Shopping Experience
+
+Product details, cart and checkout.
+
+Admin Dashboard
+
+Store management, inventory and administration.
+
+⸻
 
 Technology Stack
 
@@ -71,10 +83,6 @@ Backend
 * Prisma ORM
 * Paystack
 
-Screenshots
-
-Storefront and dashboard screenshots will be added soon.
-
 Customization
 
 AUREL is designed to be adapted to different businesses and branding requirements.
@@ -87,11 +95,19 @@ AUREL is distributed under a single-project commercial license.
 
 Each purchase permits use in one personal or client project.
 
-Reselling, redistributing, sharing or republishing the original template source code as a competing template product is not permitted.
+The original template source code may not be resold, redistributed, shared or republished as a competing template product.
 
-Purchase
+Purchase AUREL
 
-Purchase link coming soon.
+Ready to launch your next online store?
+
+Get the complete AUREL source code, buyer setup guide and single-project commercial license.
+
+<p align="center">
+  <a href="https://leetechdev.gumroad.com/l/sbzki">
+    <strong>Purchase AUREL on Gumroad — $49</strong>
+  </a>
+</p>
 
 Credits
 
