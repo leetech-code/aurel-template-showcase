@@ -46,8 +46,6 @@ Admin Dashboard	View Admin Dashboard
 
 Screenshots
 
-Actual storefront and administrative dashboard screenshots will be featured here.
-
 Storefront
 
 ![AUREL Homepage Preview](assets/aurel-homepage-mobile.JPG)
