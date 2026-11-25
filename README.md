@@ -52,14 +52,6 @@ Storefront
 
 *The AUREL storefront.*
 
-Shopping Experience
-
-Product details, cart and checkout.
-
-Admin Dashboard
-
-Store management, inventory and administration.
-
 ⸻
 
 Technology Stack
