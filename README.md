@@ -50,7 +50,7 @@ Actual storefront and administrative dashboard screenshots will be featured here
 
 Storefront
 
-![AUREL Homepage Preview](assets/aurel-homepage-mobile.jpg)
+![AUREL Homepage Preview](assets/aurel-homepage-mobile.JPG)
 
 *The AUREL storefront.*
 
