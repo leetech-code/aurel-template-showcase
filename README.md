@@ -52,7 +52,7 @@ Storefront
 
 ![AUREL Homepage Preview](assets/aurel-homepage-mobile.jpg)
 
-*The AUREL storefront — premium fashion shopping experience.*
+*The AUREL storefront.*
 
 Shopping Experience
 
