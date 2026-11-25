@@ -50,7 +50,7 @@ Actual storefront and administrative dashboard screenshots will be featured here
 
 Storefront
 
-![AUREL Homepage Preview](assets/aurel-homepage-mobile.png)
+![AUREL Homepage Preview](assets/aurel-homepage-mobile.jpg)
 
 *The AUREL storefront — premium fashion shopping experience.*
 
